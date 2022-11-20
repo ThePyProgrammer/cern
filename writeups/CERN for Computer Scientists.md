@@ -6,7 +6,7 @@ In a previous article from Mario ("Computing at CERN"), he discussed the various
 
 ## Image Reconstruction and Tomography
 
-_tomography_ is defined as the 
+A popular application of computer science, and particularly in the field of AI, is computed tomography. _Tomography_ is defined as the 
 
 
 
